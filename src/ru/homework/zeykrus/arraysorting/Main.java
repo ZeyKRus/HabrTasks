@@ -1,7 +1,5 @@
 package ru.homework.zeykrus.arraysorting;
 
-//1.1. Реализуйте алгоритм сортировки пузырьком для сортировки массива
-
 public class Main {
     public static void main(String[] args) {
         int[] array = new int[30];
